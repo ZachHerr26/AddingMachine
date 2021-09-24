@@ -1,16 +1,16 @@
 @font-face {
   font-family: helReg;
-  src: url(resources/fonts/Helvetica.ttf);
+  src: url(Helvetica.ttf);
 }
 
 @font-face {
   font-family: helBold;
-  src: url(resources/fonts/Helvetica-Bold.ttf);
+  src: url(Helvetica-Bold.ttf);
 }
 
 @font-face {
   font-family: helBoldI;
-  src: url(resources/fonts/Helvetica-BoldOblique.ttf);
+  src: url(Helvetica-BoldOblique.ttf);
 }
 
 h1{
